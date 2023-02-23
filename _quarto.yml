@@ -14,7 +14,7 @@ website:
     right: "Dit is gebouwd met [Quarto](https://quarto.org/)."
   
   sidebar:
-    background: "#D9E3E4"
+    background: "#F8F6F0"
     #logo: "https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png"
     logo: Screenshot.png
     favicon: images/favicon.ico
@@ -28,7 +28,7 @@ website:
 
     contents:
       - href: index.qmd
-        text: Home
+        text: Thuis/Home
       - href: content/Zelf_Self/cv.qmd
         text: Zelf/Self 
       - href: content/Slim_Smart/Slim_Smart.qmd
