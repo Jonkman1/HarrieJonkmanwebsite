@@ -36,7 +36,7 @@ website:
       - href: content/Goed_Good/Goed.qmd
         text: Goed/Good 
       - href: content/Mooi_Beautiful/Mooi.qmd
-        text: Mooi/Beautiful
+        text: Mooi/Beautiful 
 
 format:
   html:

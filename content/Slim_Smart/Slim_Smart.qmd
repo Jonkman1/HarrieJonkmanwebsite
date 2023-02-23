@@ -2,38 +2,31 @@
 title: "Slim/Smart"
 ---
 
-
 ## Harrie's Hoekje
+
 Hier vind je mijn blog [Harrie's Hoekje](https://harrieshoekjequarto.netlify.app/)
 
-
-![](Screenshot.png){width=30%}
-
+![](Screenshot.png){width="30%"}
 
 ## Proefschrift
 
-Hier vind je mijn proefschrift 
+Hier vind je mijn proefschrift
 
 [Voorkant](harrie_omslag.pdf) en [Inhoud](harrie_inhoud.pdf)
 
-![](Screenshot2.png){width=30%}
+![](Screenshot2.png){width="30%"}
 
 ## Springer boek
 
-*Delinquency and Substance Use in Europe
-Understanding Risk and Protective Factors.* Editors: Farrington, David P., Jonkman, Harrie, Groeger-Roth, Frederick (Eds.) (2021)Cham, Springer Nature.
-
+*Delinquency and Substance Use in Europe Understanding Risk and Protective Factors.* Editors: Farrington, David P., Jonkman, Harrie, Groeger-Roth, Frederick (Eds.) (2021)Cham, Springer Nature.
 
 Dit boek schreef ik samen met David Farrington en Frederick Groeger-Roth. Informatie over het boek vind je via onderstaande linken.
 
-
 [zie](https://www.springer.com/gp/book/9783030584412)
-
-
 
 [zie ook](https://link.springer.com/book/10.1007%2F978-3-030-58442-9)
 
-![](Screenshot3.png){width=30%}
+![](Screenshot3.png){width="30%"}
 
 ## Andere producten
 
