@@ -2,8 +2,6 @@
 title: "HARRIE JONKMAN"
 ---
 
-
-
 <br>
 
 <br>
@@ -16,17 +14,15 @@ title: "HARRIE JONKMAN"
 
 <br>
 
+*Hij viel met de deur mijn huis in*
 
+Laat het mij meteen weten als ik je stoor,\
+zei hij toen hij met de deur mijn huis inviel,\
+en ik ga zoals ik kwam.
 
+Niet alleen stoor je me,\
+antwoordde ik,\
+je zet mijn hele wereld op z'n kop.\
+Welkom.[^1]
 
-*Hij viel met de deur mijn huis in*  
-
-
-Laat het mij meteen weten als ik je stoor,   
-zei hij toen hij met de deur mijn huis inviel,   
-en ik ga zoals ik kwam.   
-
-Niet alleen stoor je me,   
-antwoordde ik,   
-je zet mijn hele wereld op z'n kop.   
-Welkom.^[Eeva Kilpi]
+[^1]: Eeva Kilpi

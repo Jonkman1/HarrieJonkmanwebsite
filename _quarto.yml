@@ -35,7 +35,7 @@ website:
         text: Slim/Smart 
       - href: content/Goed_Good/Goed.qmd
         text: Goed/Good 
-      - href: content/Mooi_Beautiful/
+      - href: content/Mooi_Beautiful/Mooi.qmd
         text: Mooi/Beautiful
 
 format:

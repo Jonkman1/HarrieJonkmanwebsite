@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/index.html</loc>
-    <lastmod>2023-02-23T19:18:57.417Z</lastmod>
+    <lastmod>2023-02-23T19:36:50.013Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/Zelf_Self/cv.html</loc>
@@ -15,5 +15,9 @@
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/Goed_Good/Goed.html</loc>
     <lastmod>2023-02-23T19:02:40.969Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/Mooi__Beautiful/Mooi.html</loc>
+    <lastmod>2023-02-23T19:35:40.291Z</lastmod>
   </url>
 </urlset>
