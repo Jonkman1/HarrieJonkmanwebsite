@@ -9,4 +9,6 @@ In 2023 ben ik begonnen met een recensieblog over boeken die over democratie en 
 
 ## Terugschrijven
 
-In de periode 2016-2021 schreef ik een blog over boeken onder de titel *Terugschrijven*. Het resultaat is [hier]() te vinden. 
+In de periode 2016-2021 schreef ik een blog over boeken onder de titel *Terugschrijven*. Het resultaat is [hier](Terugschrijven_def.pdf) te vinden. 
+
+![](Screenshot2){width=30%}
