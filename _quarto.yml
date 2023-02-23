@@ -2,13 +2,31 @@ project:
   type: website
 
 website:
-  title: "Website"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  page-navigation: true
+  title: "NOAA quarto simple" 
+  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
+  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
+  repo-actions: [edit, source, issue]
+  favicon: images/favicon.ico
+      
 
+  page-footer:
+    right: "Dit is gebouwd met [Quarto](https://quarto.org/)."
+  
+  sidebar:
+    background: "#D9E3E4"
+    logo: "https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png"
+    favicon: images/favicon.ico
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://nmfs-opensci.github.io
+        text: "NMFS Open Science"
+      - icon: github
+        href: https://github.com/nmfs-opensci
+        text: "NMFS OpenSci"
+        
 format:
   html:
     theme:
@@ -17,5 +35,9 @@ format:
     code-copy: true
     code-overflow: wrap
 
+filters:
+  - include-files.lua
+  - quarto
+  
 editor: visual
 
