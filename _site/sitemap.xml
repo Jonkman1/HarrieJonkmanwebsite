@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/index.html</loc>
-    <lastmod>2023-02-23T19:56:42.108Z</lastmod>
+    <lastmod>2023-02-23T20:01:41.950Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/Zelf_Self/cv.html</loc>
-    <lastmod>2023-02-23T19:56:47.759Z</lastmod>
+    <lastmod>2023-02-23T20:02:16.689Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/Slim_Smart/Slim_Smart.html</loc>
-    <lastmod>2023-02-23T19:56:49.049Z</lastmod>
+    <lastmod>2023-02-23T20:02:18.366Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/Goed_Good/Goed.html</loc>
-    <lastmod>2023-02-23T19:56:51.708Z</lastmod>
+    <lastmod>2023-02-23T20:02:20.986Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/Mooi__Beautiful/Mooi.html</loc>
     <lastmod>2023-02-23T19:57:19.221Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/Mooi_Beautiful/Mooi.html</loc>
+    <lastmod>2023-02-23T20:04:41.060Z</lastmod>
   </url>
 </urlset>
