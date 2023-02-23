@@ -14,9 +14,9 @@ Hier vind je mijn blog [Harrie's Hoekje](https://harrieshoekjequarto.netlify.app
 
 Hier vind je mijn proefschrift 
 
-[Voorkant](harrie_omslag.pdf)
+[Voorkant](harrie_omslag.pdf) en [Inhoud](harrie_inhoud.pdf)
 
-[Inhoud](harrie_inhoud.pdf)
+![](Screenshot2.png){width=30%}
 
 ## Springer boek
 
@@ -33,6 +33,7 @@ Dit boek schreef ik samen met David Farrington en Frederick Groeger-Roth. Inform
 
 [zie ook](https://link.springer.com/book/10.1007%2F978-3-030-58442-9)
 
+![](Screenshot3.png){width=30%}
 
 ## Andere producten
 

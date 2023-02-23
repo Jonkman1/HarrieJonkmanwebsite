@@ -3,3 +3,6 @@ title: "Zelf/Self"
 ---
 
 Hier vind je informatie over mij [cv](https://cvharrie.netlify.app/).
+
+
+![](Screenshot.png){width=30%}

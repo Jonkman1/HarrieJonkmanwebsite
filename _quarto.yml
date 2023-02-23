@@ -32,10 +32,10 @@ website:
         text: Zelf/Self 
       - href: content/Slim_Smart/Slim_Smart.qmd
         text: Slim/Smart 
-      - href: content/Goed_Good/
+      - href: content/Goed_Good/Goed.qmd
         text: Goed/Good 
       - href: content/Mooi_Beautiful/
-        text: Mooi/Beatiful
+        text: Mooi/Beautiful
 
 format:
   html:
