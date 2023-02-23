@@ -2,4 +2,4 @@
 title: "Zelf/Self"
 ---
 
-Hier vind je mijn [cv](https://cvharrie.netlify.app/)
+Hier vind je informatie over mij [cv](https://cvharrie.netlify.app/).
