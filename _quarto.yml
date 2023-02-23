@@ -20,13 +20,23 @@ website:
     pinned: true
     align: center
     tools: 
-      - icon: globe
-        href: https://nmfs-opensci.github.io
-        text: "NMFS Open Science"
       - icon: github
-        href: https://github.com/nmfs-opensci
-        text: "NMFS OpenSci"
-        
+        href: https://github.com/Jonkman1
+        text: "Harrie Jonkman op GitHUB"
+  
+
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: content/Zelf_Self/cv.qmd
+        text: Zelf/Self 
+      - href: content/Slim_Smart/Slim_Smart.qmd
+        text: Slim/Smart 
+      - href: content/Goed_Good/
+        text: Goed/Good 
+      - href: content/Mooi_Beautiful/
+        text: Mooi/Beatiful
+
 format:
   html:
     theme:

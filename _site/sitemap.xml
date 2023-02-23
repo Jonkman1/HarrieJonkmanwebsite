@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/index.html</loc>
-    <lastmod>2023-02-23T13:18:01.855Z</lastmod>
+    <lastmod>2023-02-23T15:41:43.490Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/Zelf_Self/cv.html</loc>
-    <lastmod>2023-02-23T13:20:19.115Z</lastmod>
+    <lastmod>2023-02-23T14:55:07.348Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/Slim_Smart/Slim_Smart.html</loc>
+    <lastmod>2023-02-23T18:04:07.831Z</lastmod>
   </url>
 </urlset>
