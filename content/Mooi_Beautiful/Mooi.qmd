@@ -4,8 +4,7 @@ title: "Mooi/Beautiful"
 
 ## Oog houden op dingen / Keeping an Eye on Things
 
-![Billy Collins getekend door Sam Drukker](Collins.jpg){width=30%}
-<br>
+![Billy Collins getekend door Sam Drukker](Collins.jpg){width="30%"} <br>
 
 <br>
 
@@ -27,5 +26,19 @@ Graag lees ik het werk van de Amerikaanse dichter Billy Collins. Zijn werk verta
 
 [Aan mijn favoriete 17-jaar oude meisje van de middelbare school](Aan_mijn_favoriete_17.pdf)
 
+## Divers
 
-## 
+Hier een serie nieuwsjaarskaarten van de afgelopen jaren. Een familie traditie
+
+::: {layout-ncol=2}
+
+![Nieuwjaar 2007](Kaarten/2007_NJ.png)
+
+![Nieuwjaar 2008](Kaarten/2008_NJ.png)
+
+![Nieuwjaar 2009](Kaarten/2009_NJ.png)
+
+![Nieuwjaar 2010](Kaarten/2010_NJ.png)
+
+Nieuwjaarskaarten
+::: 
