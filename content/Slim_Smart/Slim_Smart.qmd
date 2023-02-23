@@ -2,6 +2,7 @@
 title: "Slim/Smart"
 ---
 
+
 ## Harrie's Hoekje
 
 Hier vind je mijn blog [Harrie's Hoekje](https://harrieshoekjequarto.netlify.app/)
