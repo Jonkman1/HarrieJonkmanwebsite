@@ -14,9 +14,9 @@ Hier vind je mijn blog [Harrie's Hoekje](https://harrieshoekjequarto.netlify.app
 
 Hier vind je mijn proefschrift 
 
-[Voorkant](harrie_omslag(2).pdf)
+[Voorkant](harrie_omslag.pdf)
 
-[Inhoud](harrie_inhoud(1).pdf)
+[Inhoud](harrie_inhoud.pdf)
 
 ## Springer boek
 
