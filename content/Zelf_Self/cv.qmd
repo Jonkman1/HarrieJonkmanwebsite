@@ -2,7 +2,6 @@
 title: "Zelf/Self"
 ---
 
-Hier vind je informatie over mij [cv](https://cvharrie.netlify.app/).
+Hier vind je informatie over mij in [cv-html](https://cvharrie.netlify.app/) en in [pdf-cv](<embed SCR="https://github.com/Jonkman1/cv_pdf/rename_harrie.pdf width="500" height="375" type="application/pdf")> 
 
-
-![](Screenshot.png){width=30%}
+![](Screenshot.png){width="30%"}
