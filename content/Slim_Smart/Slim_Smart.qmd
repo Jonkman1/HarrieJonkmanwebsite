@@ -2,7 +2,6 @@
 title: "Slim/Smart"
 ---
 
-
 ## Harrie's Hoekje
 
 Hier vind je mijn blog [Harrie's Hoekje](https://harrieshoekjequarto.netlify.app/)
@@ -31,4 +30,8 @@ Dit boek schreef ik samen met David Farrington en Frederick Groeger-Roth. Inform
 
 ## Andere producten
 
-Hier vind je andere producten
+Hier komen enkele projecten waar ik dit jaar aan werk. 
+
+![](Screenshot4.png){width="30%"}
+
+Hier is er vast een. Dit open-source boek maakte ik onlangs (februari 2023) van workshops die door het NSC-R zijn gemaakt [ttbook](https:ttbook.netlify.app).
