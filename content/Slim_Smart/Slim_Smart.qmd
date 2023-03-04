@@ -2,21 +2,33 @@
 title: "Slim/Smart"
 ---
 
-## Harrie's Hoekje
+## Harrie's Hoekje blog
 
-Hier vind je mijn blog [Harrie's Hoekje](https://harrieshoekjequarto.netlify.app/)
+Hier vind je mijn blog [Harrie's Hoekje](https://harrieshoekjequarto.netlify.app/).
+
+---
+
+Here you find my blog [Harrie's Hoekje](https://harrieshoekjequarto.netlify.app/).
+
+
 
 ![](Screenshot.png){width="30%"}
 
-## Proefschrift
+## Proefschrift/Thesis
 
 Hier vind je mijn proefschrift
 
-[Voorkant](harrie_omslag.pdf) en [Inhoud](harrie_inhoud.pdf)
+[Voorkant](harrie_omslag.pdf) en [Inhoud](harrie_inhoud.pdf).
+
+---
+
+Here my thesis [Front](harrie_omslag.pdf) and [Content](harrie_inhoud.pdf).
+
+<br>
 
 ![](Screenshot2.png){width="30%"}
 
-## Springer boek
+## Springer boek/Springer book
 
 *Delinquency and Substance Use in Europe Understanding Risk and Protective Factors.* Editors: Farrington, David P., Jonkman, Harrie, Groeger-Roth, Frederick (Eds.) (2021)Cham, Springer Nature.
 
@@ -26,12 +38,20 @@ Dit boek schreef ik samen met David Farrington en Frederick Groeger-Roth. Inform
 
 [zie ook](https://link.springer.com/book/10.1007%2F978-3-030-58442-9)
 
+---
+This book I wrote with David Farrington and Frederick Groeger-Roth. Information about it you find using these links.
+
+[see](https://www.springer.com/gp/book/9783030584412)
+
+[see also](https://link.springer.com/book/10.1007%2F978-3-030-58442-9)
+
+
 ![](Screenshot3.png){width="30%"}
 
-## Andere producten
+## Andere producten/Other products
 
-Hier komen enkele projecten waar ik dit jaar aan werk. 
+Hier komen enkele projecten waar ik dit jaar aan werk. Hier is er vast een. Dit open-source boek maakte ik onlangs (februari 2023) van workshops die door het NSC-R zijn gemaakt [ttbook](https:ttbook.netlify.app).
 
-![](Screenshot4.png){width="30%"}
+---
 
-Hier is er vast een. Dit open-source boek maakte ik onlangs (februari 2023) van workshops die door het NSC-R zijn gemaakt [ttbook](https:ttbook.netlify.app).
+Here will come other project on which I work this year. Here you see allready one. This is an open-source book I recently made (Februari 2023) of workshops given by the NSC-R team [ttbook](https:ttbook.netlify.app).
